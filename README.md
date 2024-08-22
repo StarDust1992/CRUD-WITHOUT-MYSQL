@@ -2,4 +2,7 @@
 Glossary App With user login capability and authentication
 
 username:admin@admin.com
-password:pass
+password: pass
+
+
+<h1>AMIN</h1>
